@@ -1,0 +1,4 @@
+modpath=/home/jr/NicksOfTerraria/Mods
+worldpath=/home/jr/NicksOfTerraria/Worlds
+banlist=/home/jr/NicksOfTerraria/_BANLIST.txt
+motd=Nick's Of Terraria is better.
